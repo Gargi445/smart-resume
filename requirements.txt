@@ -1,0 +1,8 @@
+Flask==3.0.0
+PyPDF2==3.0.1
+python-docx==1.1.0
+pandas
+numpy
+scikit-learn
+nltk
+Werkzeug==3.0.1
